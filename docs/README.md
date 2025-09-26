@@ -21,13 +21,6 @@ A simple AdBlock module based on the hosts file.
 > The hosts file is approximately 33 mb in size. \
 > The module is updated weekly.
 
-## How Install
-Installing the module is very simple.
-
-1. **Download the [latest module](https://github.com/Vaz15k/Cubic-AdBlocker/releases)**
-> The module is also available on [**MMRL**](https://mmrl.dev/repository/grdoglgmr/cubic-adblock)
-2. **Flash your preferred root manager**
-
 ## Using with Adaway
 An alternative to the module is to use the [Adaway](https://adaway.org) application, which allows you to edit the file with absurd ease. \
 I recommend using Adaway if you want to allow ads in a specific application.
@@ -37,7 +30,8 @@ I recommend using Adaway if you want to allow ads in a specific application.
 
 To use this list in AdAway, add the following URL to the in-app repository list:
 ```
-https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlocker/cubic/module/system/etc/hosts
+https://raw.githubusercontent.com/yuannchan/Cubic-AdBlocker-edit/cubic/module/system/etc/hosts_edited
+
 ```
 - For Magisk users: enable the "Systemless hosts" module in the settings.
 - For APatch or KernelSU users: use the [Systemless Hosts KSU](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) module.
