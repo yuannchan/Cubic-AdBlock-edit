@@ -31,7 +31,6 @@ I recommend using Adaway if you want to allow ads in a specific application.
 To use this list in AdAway, add the following URL to the in-app repository list:
 ```
 https://raw.githubusercontent.com/yuannchan/Cubic-AdBlocker-edit/cubic/module/system/etc/hosts_edited
-
 ```
 - For Magisk users: enable the "Systemless hosts" module in the settings.
 - For APatch or KernelSU users: use the [Systemless Hosts KSU](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) module.
